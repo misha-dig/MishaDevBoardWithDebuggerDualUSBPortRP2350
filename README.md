@@ -20,3 +20,6 @@ Designing my own large-scale RP2350-based microcontroller development board PCB 
 9) Included built-in three-user LEDs with tri-colour (Red, Yellow, Green) and two buttons with a debouncing circuit. Two green LEDs indicate the board's power and are connected to the PC via the debugger's USB connector. The TH and SMT jumpers support configuration of UART GPIO ports, QSPI memory chip selection GPIO port, enable/disable of user and power LEDs, and the user button.
 
 My design work is copyrighted by Mihails Zaslavskis. All rights are reversed. Reproduction and distribution of this design work are strictly forbidden without my prior permission.
+
+![alt text](20260310_021041.jpg)
+![alt text](20260310_020847.jpg)
