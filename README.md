@@ -23,3 +23,4 @@ My design work is copyrighted by Mihails Zaslavskis. All rights are reversed. Re
 
 ![alt text](20260310_021041.jpg)
 ![alt text](20260310_020847.jpg)
+![alt text](KiCADPCBLayoutScreenshoot.png)
